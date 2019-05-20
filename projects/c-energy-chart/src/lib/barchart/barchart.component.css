@@ -1,21 +1,21 @@
-mat-card{
+.c-container{
    overflow: auto; 
 
 }
-mat-card-content div{
+.c-content div{
   margin:5px;
   flex:1
 }
-.tarih{
+.c-date{
     align-items: center;
     display:flex;
     flex-direction: row;
 }
-.tarih >*{
+.c-date >*{
   flex:1 0 calc(33% - 5px);
 }
 
-.tarih >*:not(:last-child){
+.c-date >*:not(:last-child){
   margin-right: 5px;
   }
 

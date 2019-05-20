@@ -17,7 +17,6 @@ export class SettingsComponent implements OnInit {
       .subscribe((result:Hede) => {
         this.settings = result;
       });
-    console.log("settings: " + this.settings);
   }
 
 

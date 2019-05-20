@@ -19,12 +19,6 @@
       "dom"
     ],
     "paths": {
-      "c-alarm": [
-        "dist/c-alarm"
-      ],
-      "c-alarm/*": [
-        "dist/c-alarm/*"
-      ],
       "c-energy-chart": [
         "dist/c-energy-chart"
       ],
